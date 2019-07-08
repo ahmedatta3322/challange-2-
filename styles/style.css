@@ -1,0 +1,10 @@
+.row {
+	//border-style: solid;
+}
+.col-5 , .col-1 , .col-6{
+	border-style: solid;
+}
+#logo{
+	margin-top: 10vw;
+	
+}
