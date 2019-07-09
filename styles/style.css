@@ -1,10 +1,43 @@
 .row {
 	//border-style: solid;
 }
-.col-5 , .col-1 , .col-6{
-	border-style: solid;
+.col{
+	//border-style: solid;
+}
+#draw{
+	
+	width: 100%;
+	margin-left:4vw;
+	//border-style:solid;
+	
 }
 #logo{
-	margin-top: 10vw;
+	margin-top:8vw;
+}
+.sign {
 	
+	//margin-left: 1vw;
+	border-style: solid;
+	//margin: 0;
+	
+}
+#sign-box{
+	margin-left: 18vw;
+	width:78%;
+	margin-top: -34vw;
+	//border-style: solid;
+	
+}
+#signin {
+	color: white;
+}
+.stage{
+	margin-top: 10vw;
+}
+h3{
+	text-align: center;
+	margin-left: 15vw;
+}
+#getstart{
+	width: 70vw;
 }
