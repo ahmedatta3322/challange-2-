@@ -1,8 +1,9 @@
 # Front-end Style Guide
-
+//<img src="images\bg-intro-mobile.svg"/>
+<img src="images\bg-intro-mobile.svg"></img>
+<img src="images/logo.svg"></img>
 ## Layout
 
-The designs were created to the following widths:
 
 - Mobile: 375px
 - Desktop: 1440px
